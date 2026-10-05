@@ -10,5 +10,3 @@ for x in range(n):
         opsiKamar += 1
 
 print(opsiKamar)
-
-
